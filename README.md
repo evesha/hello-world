@@ -12,5 +12,3 @@ Added from remote repo
 Test again
 
 Test line 2
-
-Try again
